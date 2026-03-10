@@ -1,4 +1,4 @@
-# Lista Paginada de Posts — 
+# Lista Paginada de Posts 
 
 Aplicação React que exibe posts paginados da API JSONPlaceholder.
 
